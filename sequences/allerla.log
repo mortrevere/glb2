@@ -1,0 +1,23 @@
+disco 10 10
+color red
+pause 10
+color purple
+pause 10
+color cyan
+pause 10
+color yellow
+rb 0 2
+pause 10
+disco 100 100
+pause 5
+color purple
+pause 10
+tension 10 10
+tension 1 100
+tension 100 100
+twist
+twist 10 10
+color red
+pause 10
+color cyan
+pause 10

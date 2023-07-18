@@ -1,0 +1,23 @@
+color orange
+disco 50 200
+pause 12
+color white
+pause 1
+full
+pause 1
+off
+pause 1
+color orange
+disco 1 60
+pause 2
+colrot 40 150
+pause 3
+color red
+pause 2
+full
+color yellow
+pause 5
+twist 5 50
+pause 3
+off
+pause 1

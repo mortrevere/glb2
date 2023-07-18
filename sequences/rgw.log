@@ -1,0 +1,6 @@
+color cyan
+sleep 3
+color red
+sleep 3
+color white
+sleep 1

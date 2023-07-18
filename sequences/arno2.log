@@ -1,0 +1,12 @@
+clear
+twist 1 100
+sleep 10
+color green
+sleep 7
+full
+sleep 6
+disco 1 100
+sleep 1
+color orange
+sleep 10
+full

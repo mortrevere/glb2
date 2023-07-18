@@ -1,0 +1,11 @@
+group add 84:CC:A8:79:A5:54 name all
+group add 84:CC:A8:7A:A0:F0 name all
+group add 24:62:AB:F1:ED:30 name all
+group select all
+group add 84:CC:A8:79:A5:54 name dj1
+group add 84:CC:A8:7A:A0:F0 name left
+group add 24:62:AB:F1:ED:30 name dj2
+
+group add 84:CC:A8:79:A5:54 name dj
+group add 24:62:AB:F1:ED:30 name dj
+group add 84:CC:A8:7A:A0:F0 name ext

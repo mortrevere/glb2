@@ -1,0 +1,20 @@
+color purple
+full
+pause 1
+color white
+pause 1
+off
+pause 1
+disco 3 40
+pause 1
+color red
+pause 1
+color white
+full
+pause 1
+color cyan
+disco 1 100
+pause 1
+color red
+full
+pause 2

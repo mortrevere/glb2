@@ -1,0 +1,13 @@
+disco 100 100
+color blue
+pause 3
+log
+color green
+pause 5
+rb 0 1
+pause 1
+rb 100 0
+color blue
+pause 1
+off
+load test

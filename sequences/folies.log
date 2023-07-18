@@ -1,0 +1,22 @@
+color red
+sleep 10
+color orange
+sleep 1
+color white
+sleep 1
+disco 4 100
+sleep 2
+color cyan
+sleep 1
+color green
+sleep 10
+color white
+sleep 1
+full
+color red
+sleep 5
+color orange
+disco 10 100
+sleep 3
+color red
+sleep 10

@@ -1,0 +1,6 @@
+color white
+sleep 3
+color red
+sleep 15
+color orange
+sleep 6

@@ -1,0 +1,14 @@
+color red
+group select right
+color white
+disco 10 10
+group select cam
+color white
+sleep 6
+disco 10 10
+group select one
+color orange
+group select cam
+color red
+group select all
+dim 120

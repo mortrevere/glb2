@@ -1,0 +1,19 @@
+color white
+pause 1
+color red
+pause 1
+full
+pause 1
+color white
+disco 1 200
+pause 3
+color red
+pause 2
+full
+pause 1
+off
+pause 2
+full
+color white
+pause 1
+off

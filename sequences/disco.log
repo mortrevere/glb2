@@ -1,0 +1,8 @@
+disco 100 100
+pause 1
+disco 10 200
+color blue
+pause 1
+color purple
+disco 200 40
+pause 1

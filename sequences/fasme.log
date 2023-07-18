@@ -1,0 +1,18 @@
+color blue
+pause 3
+color purple
+pause 4
+color blue
+disco 1 200
+pause 1
+color white
+full
+pause 1
+color red
+pause 1
+color red
+pause 1
+dissco 2 100
+disco 2 100
+color green
+pause 1

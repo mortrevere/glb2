@@ -1,0 +1,10 @@
+color green
+pause 10
+color blue
+pause 16
+color green
+pause 5
+color cyan
+pause 3
+color white
+pause 1

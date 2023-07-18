@@ -1,0 +1,14 @@
+disco 40 10
+color orange
+pause 12
+color yellow
+pause 2
+color red
+pause 4
+tension 3 10
+pause 5
+color white
+tension 10 200
+pause 2
+color yellow
+pause 4

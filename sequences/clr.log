@@ -1,0 +1,24 @@
+rb 0 1
+color blue
+pause 2
+color red
+pause 3
+color cyan
+pause 5
+color purple
+pause 8
+color yellow
+pause 1
+color red
+pause 5
+color blue
+colrot 10 10
+pause 1
+color red
+pause 1
+color cyan 
+pause 1
+color white
+disco 1 200
+pause 10
+

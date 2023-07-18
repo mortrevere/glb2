@@ -1,0 +1,13 @@
+group select left
+color blue
+colrot 40 100
+group select right
+colrot 100 100
+color yellow
+pause 10
+color blue
+colrot 40 150
+group select left
+color yellow
+colrot 100 100
+pause 10

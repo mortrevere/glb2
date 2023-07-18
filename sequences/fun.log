@@ -1,0 +1,21 @@
+color green
+sleep 1
+off
+sleep 1
+disco 1 100
+sleep 2
+full
+color red
+sleep 1
+off
+sleep 1
+disco 1 100
+sleep 2
+full
+color blue
+sleep 1
+off
+sleep 1
+disco 1 100
+sleep 2
+full

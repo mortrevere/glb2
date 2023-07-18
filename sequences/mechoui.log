@@ -1,0 +1,311 @@
+color red
+pause 1
+full
+pause 1
+off
+twist 10 100
+pause 1
+color purple
+disco 1 200
+color white
+pause 1
+color red
+pause 1
+disco 10 130
+pause 1
+color purple
+pause 1
+disco 3 40        
+color blue
+pause 1
+color red
+pause 10
+color purple
+pause 10
+color cyan
+pause 10
+color yellow
+rb 0 2
+pause 10
+disco 100 100
+pause 5
+color purple
+pause 10
+tension 10 10
+tension 1 100
+tension 100 100
+twist
+twist 10 10
+color red
+pause 10
+color cyan
+pause 10color orange
+disco 50 200
+pause 12
+color white
+pause 1
+full
+pause 1
+off
+pause 1
+color orange
+disco 1 60
+pause 2
+colrot 40 150
+pause 3
+color red
+pause 2
+full
+color yellow
+pause 5
+twist 5 50
+pause 3
+off
+pause 1group select left
+color blue
+colrot 40 100
+group select right
+colrot 100 100
+color yellow
+pause 10
+color blue
+colrot 40 150
+group select left
+color yellow
+colrot 100 100
+pause 10
+full
+color blue
+pause 1
+off
+pause 1
+full
+pause 1
+disco 1 100
+pause 1
+color white
+pause 1
+tension 10 10
+pause 1
+color blue
+pause 1
+disco 40 10
+color orange
+pause 12
+color yellow
+pause 2
+color red
+pause 4
+tension 3 10
+pause 5
+color white
+tension 10 200
+pause 2
+color yellow
+pause 4
+rb 0 1
+color blue
+pause 2
+color red
+pause 3
+color cyan
+pause 5
+color purple
+pause 8
+color yellow
+pause 1
+color red
+pause 5
+color blue
+colrot 10 10
+pause 1
+color red
+pause 1
+color cyan 
+pause 1
+color white
+disco 1 200
+pause 10
+
+color green
+pause 10
+color blue
+pause 16
+color green
+pause 5
+color cyan
+pause 3
+color white
+pause 1
+color red
+pause 1
+color green
+pause 1
+color blue
+pause 1disco 100 100
+pause 1
+disco 10 200
+color blue
+pause 1
+color purple
+disco 200 40
+pause 1color blue
+pause 3
+color purple
+pause 4
+color blue
+disco 1 200
+pause 1
+color white
+full
+pause 1
+color red
+pause 1
+color red
+pause 1
+dissco 2 100
+disco 2 100
+color green
+pause 1color red
+group select right
+color white
+disco 10 10
+group select cam
+color white
+sleep 6
+disco 10 10
+group select one
+color orange
+group select cam
+color red
+group select all
+dim 120full
+color green
+pause 1
+off
+pause 1
+full
+pause 1
+disco 1 100
+pause 1
+color yellow
+pause 1
+tension 10 10
+pause 1
+color green
+pause 1
+color purple
+disco 20 70
+pause 20
+tension 20 50
+color red 
+pause 15
+color white
+pause 2
+twist 5 50
+color blue
+pause 25
+color purple
+full
+pause 1
+color white
+pause 1
+off
+pause 1
+disco 3 40
+pause 1
+color red
+pause 1
+color white
+full
+pause 1
+color cyan
+disco 1 100
+pause 1
+color red
+full
+pause 2
+
+color purple
+pause 1
+color cyan
+pause 1
+color red
+pause 1
+color blue
+
+pause 2
+color cyancolor blue
+pause 10
+color purple
+pause 5color blue
+pause 1
+color red
+pause 1
+color white
+pause 1
+color red
+pause 1
+full
+pause 1
+color white
+disco 1 200
+pause 3
+color red
+pause 2
+full
+pause 1
+off
+pause 2
+full
+color white
+pause 1
+offcolor blue
+full
+pause 1
+color white
+pause 1
+off
+pause 1
+disco 3 40
+pause 3
+color red
+pause 1
+color white
+full
+pause 1
+disco 1 100
+pause 3
+color red
+full
+pause 3color blue
+pause 3
+color green
+pause 5
+color red
+pause 7
+group add 84:CC:A8:79:A5:54 name all
+group add 84:CC:A8:7A:A0:F0 name all
+group add 24:62:AB:F1:ED:30 name all
+group add 7C:9E:BD:47:A2:28 name all
+group select all
+group add 84:CC:A8:79:A5:54 name one
+group add 84:CC:A8:7A:A0:F0 name left
+group add 24:62:AB:F1:ED:30 name cam
+group add 7C:9E:BD:47:A2:28 name right
+full
+pause 1
+off
+pause 1disco 100 100
+color blue
+pause 3
+log
+color green
+pause 5
+rb 0 1
+pause 1
+rb 100 0
+color blue
+pause 1
+off
+load test

@@ -1,0 +1,11 @@
+color purple
+disco 20 70
+pause 20
+tension 20 50
+color red 
+pause 15
+color white
+pause 2
+twist 5 50
+color blue
+pause 25
